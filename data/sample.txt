@@ -1,0 +1,12 @@
+# sample data file, specifying the lower-level columns, rows, and
+# objective coefficients (LC, LR, and LO, resp.).
+# N - number of lower-level columns
+# M - number of lower-level rows
+# indices should be given 0..N and 0..M
+# objective coefficients should not include upper-level variables (we assume)
+
+N
+M
+LC 
+LR 
+LO 

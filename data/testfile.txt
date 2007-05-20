@@ -1,0 +1,2 @@
+UPPER ./data/moore90.mps
+LOWER ./data/moore90.txt
