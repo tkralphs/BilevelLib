@@ -1,2 +1,2 @@
-UPPER ./data/bfcut.mps
-LOWER ./data/bfcut.txt
+UPPER ./data/linderoth4.mps
+LOWER ./data/linderoth3.txt
