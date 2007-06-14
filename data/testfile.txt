@@ -1,2 +1,2 @@
-UPPER ./data/linderoth.mps
-LOWER ./data/linderoth.txt
+UPPER ./data/moore90.mps
+LOWER ./data/moore90.txt
