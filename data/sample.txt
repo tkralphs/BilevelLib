@@ -4,9 +4,10 @@
 # M - number of lower-level rows
 # indices should be given 0..N and 0..M
 # objective coefficients should not include upper-level variables (we assume)
-
+# objective sense of the lower-level problem
 N
 M
 LC 
 LR 
-LO 
+LO
+OS 
