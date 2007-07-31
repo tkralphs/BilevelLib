@@ -1,0 +1,14 @@
+N 2
+M 4
+LC 2
+LC 3
+LR 1
+LR 2
+LR 3
+LR 4
+LO 2
+LO 1
+OS -1
+IC 1
+IC 1
+IB 1
