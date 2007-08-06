@@ -1,2 +1,2 @@
-UPPER ./data/moore90.mps
-LOWER ./data/moore90.txt
+UPPER ./data/simple.mps
+LOWER ./data/intsimple.txt
