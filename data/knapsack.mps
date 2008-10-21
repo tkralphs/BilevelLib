@@ -58,4 +58,6 @@ RHS
     rhs       R0007                           1
     rhs       R0008                           1
     rhs       R0009                          13
+BOUNDS
+ FX BOUND     C0001                           1
 ENDATA
