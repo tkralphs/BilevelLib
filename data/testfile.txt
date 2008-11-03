@@ -1,3 +1,3 @@
-UPPER ./data/knapsack.mps
-LOWER ./data/knapsack.txt
+UPPER ./data/moore90.mps
+LOWER ./data/moore90.txt
 
