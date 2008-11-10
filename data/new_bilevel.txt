@@ -1,0 +1,16 @@
+N 6
+M 1
+LC 9
+LC 10
+LC 11
+LC 3
+LC 4
+LC 5
+LR 1
+LO 0.5
+LO 0
+LO 0.5
+LO 2
+LO 1
+LO 0.75
+OS 1
