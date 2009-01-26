@@ -19,11 +19,11 @@ BOUNDS
  BV BOUND     C0000000  1.          
  BV BOUND     C0000001  1.          
  BV BOUND     C0000002  1.          
- BV BOUND     C0000003  1.          
+ BV BOUND     C0000003  0.          
  BV BOUND     C0000004  1.          
- BV BOUND     C0000005  1.          
+ BV BOUND     C0000005  0.          
  BV BOUND     C0000006  1.          
  BV BOUND     C0000007  1.          
- BV BOUND     C0000008  1.          
+ BV BOUND     C0000008  0.          
  BV BOUND     C0000009  1.          
 ENDATA
