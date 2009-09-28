@@ -1,3 +1,4 @@
-UPPER ./data/p0033.mps
-LOWER ./data/p0033.mps.txt
+UPPER ./data/2AP05-2.mps
+LOWER ./data/2AP05-2.txt
+
 
