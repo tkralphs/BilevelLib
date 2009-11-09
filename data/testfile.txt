@@ -1,4 +1,4 @@
-UPPER ./data/2AP05-2.mps
-LOWER ./data/2AP05-2.txt
+UPPER ./data/lseu.mps
+LOWER ./data/lseu.mps.txt.rand
 
 
