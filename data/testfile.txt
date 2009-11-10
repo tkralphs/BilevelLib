@@ -1,4 +1,4 @@
 UPPER ./data/lseu.mps
-LOWER ./data/lseu.mps.txt.rand
+LOWER ./data/lseu.mps.txt.int
 
 
