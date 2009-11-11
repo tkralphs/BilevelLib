@@ -1,4 +1,4 @@
-UPPER ./data/lseu.mps
-LOWER ./data/lseu.mps.txt.int
+UPPER ./data/MIPS/RANDOM/milp_10_30_50_0110.mps.mod.mps
+LOWER ./data/MIPS/RANDOM/milp_10_30_50_0110.mps.txt
 
 
