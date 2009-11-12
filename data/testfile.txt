@@ -1,4 +1,4 @@
-UPPER ./data/MIPS/RANDOM/milp_10_30_50_0110.mps.mod.mps
-LOWER ./data/MIPS/RANDOM/milp_10_30_50_0110.mps.txt
+UPPER ./data/milp_4_20_10_0110.mps
+LOWER ./data/milp_4_20_10_0110.txt
 
 
