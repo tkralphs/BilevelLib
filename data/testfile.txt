@@ -1,4 +1,5 @@
-UPPER ./data/linderoth.mps
+AMPL_MODEL ./data/linderoth.mod
+AMPL_DATA ./data/linderoth.dat
 LOWER ./data/linderoth.txt
 
 
