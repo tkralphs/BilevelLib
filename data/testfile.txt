@@ -1,3 +1,3 @@
-UPPER ./data/miblp_10_10_50_0110_0_1.mps
-LOWER ./data/miblp_10_10_50_0110_0_1.mps.txt
+UPPER ./data/2AP05-20.mps
+LOWER ./data/2AP05-20.txt
 
