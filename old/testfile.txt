@@ -1,3 +1,0 @@
-UPPER ./data/2AP05-20.mps
-LOWER ./data/2AP05-20.txt
-
